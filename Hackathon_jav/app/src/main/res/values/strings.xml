@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <string name="MainScreen">Adaptive Learning Carb Counter</string>
+    <string name="done_button">Done</string>
+    <string name="cancel_Button">Cancel</string>
+    <string name="carb_Text">Carbs (all)</string>
+    <string name="insulin_Amnt">Insulin </string>
+</resources>
